@@ -152,42 +152,74 @@ ruff rule --select I001                # Explain a specific rule
 
 ## Common Built-in Modules (`python -m`)
 
--   [`http.server`](https://docs.python.org/3/library/http.server.html)
+### [`http.server`](https://docs.python.org/3/library/http.server.html)
 
-    A simple HTTP server.
+A simple HTTP server.
 
-    ```bash
-    python -m http.server       # Serve the current directory on port 8000
-    python -m http.server 8080  # Serve on a specific port
-    python -m http.server --bind 127.0.0.1 9000  # Serve on a specific address and port
-    ```
+```bash
+python -m http.server       # Serve the current directory on port 8000
+python -m http.server 8080  # Serve on a specific port
+python -m http.server --bind 127.0.0.1 9000  # Serve on a specific address and port
+```
 
--   [`json.tool`](https://docs.python.org/3/library/json.html#module-json.tool)
+### [`json.tool`](https://docs.python.org/3/library/json.html#module-json.tool)
 
-    A JSON validator and pretty-printer.
+A JSON validator and pretty-printer.
 
-    ```bash
-    python -m json.tool my_data.json    # Validate and pretty-print a JSON file
-    echo '{"name": "John", "age": 30}' | python -m json.tool    # Pretty-print JSON from a string
-    ```
+```bash
+python -m json.tool my_data.json    # Validate and pretty-print a JSON file
+echo '{"name": "John", "age": 30}' | python -m json.tool    # Pretty-print JSON from a string
+```
 
--   [`timeit`](https://docs.python.org/3/library/timeit.html)
+### [`timeit`](https://docs.python.org/3/library/timeit.html)
 
-    A tool for measuring the execution time of small code snippets.
+A tool for measuring the execution time of small code snippets.
 
-    ```bash
-    python -m timeit '"-".join(str(n) for n in range(100))'    # Time a single statement
-    python -m timeit --setup "import my_module" "my_module.my_function()"    # Time a multi-line script
-    ```
+```bash
+python -m timeit '"-".join(str(n) for n in range(100))'    # Time a single statement
+python -m timeit --setup "import my_module" "my_module.my_function()"    # Time a multi-line script
+```
 
--   [`pdb`](https://docs.python.org/3/library/pdb.html)
+## Python Debug with [`pdb`](https://docs.python.org/3/library/pdb.html)
 
-    The Python Debugger.
+### Starting the Debugger
 
-    ```bash
-    # Run a script under the debugger
-    python -m pdb my_script.py
+```bash
+# Run a script from the command line.
+# The script will pause at the first line of execution.
+python -m pdb my_script.py
+```
 
-    # The script will pause at the first line, allowing you to step through
-    # the code, inspect variables, and set breakpoints.
-    ```
+### Setting Breakpoints in Code
+
+You can set a breakpoint directly in your code. The script will run normally until it hits the breakpoint, then drop you into the `pdb` prompt.
+
+```python
+import pdb
+
+def some_function():
+    # ... some code ...
+    pdb.set_trace()  # Execution will stop here
+    # ... more code ...
+```
+
+### Common Commands
+
+Once inside the `pdb` prompt, use these commands to navigate and inspect.
+
+| Command           | Description                                                               |
+| ----------------- | ------------------------------------------------------------------------- |
+| `n` (next)        | Execute the current line, move to the next line in the current function.  |
+| `s` (step)        | Execute and step into the function being called.                          |
+| `c` (continue)    | Continue execution until a breakpoint is hit.                             |
+| `l` (list)        | Show source code around the current line.                                 |
+| `ll` (longlist)   | Show the entire source code for the current function or frame.            |
+| `b <line_no>`     | Set a breakpoint at a specific line number in the current file.           |
+| `cl`              | Clear all breakpoints.                                                    |
+| `p <expression>`  | Print the value of an expression.                                         |
+| `pp <expression>` | Pretty-print the value of an expression.                                  |
+| `args`            | Print the arguments of the current function.                              |
+| `where`           | Print a stack trace, with the most recent frame at the bottom.            |
+| `h` (help)        | Show a list of available commands.                                        |
+| `h <command>`     | Show help for a specific command.                                         |
+| `q` (quit)        | Quit the debugger and exit the program.                                   |
