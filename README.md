@@ -1,2 +1,2 @@
 # cheatsheets
-My collection of cheatsheets
+Josh's wonderful cheatsheets!
