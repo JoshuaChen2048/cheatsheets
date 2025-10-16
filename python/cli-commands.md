@@ -67,6 +67,23 @@ pip show flask                        # Show metadata for a package
 pip check                             # Verify installed packages have compatible dependencies
 ```
 
+## [pipx](https://pypa.github.io/pipx/)
+
+Install and run Python applications in isolated environments.
+
+```bash
+# Manage CLI tools
+pipx install ruff                      # Install a tool
+pipx upgrade ruff                      # Upgrade a tool
+pipx upgrade-all                       # Upgrade all tools
+pipx uninstall ruff                    # Uninstall a tool
+pipx list                              # List installed tools
+
+# Run an app without installing
+pipx run cowsay "Hello, World!"        # Run the latest version of a package
+pipx run pycowsay --version 2.0.0 "Hi" # Run a specific version
+```
+
 ## [uv](https://pypi.org/project/uv/)
 
 A fast, lightweight Python package and environment manager.
@@ -98,23 +115,6 @@ uv run python manage.py runserver      # Run commands with the project's env act
 
 # Export lockfile to requirements.txt
 uv export -o requirements.txt          # Useful for CI or legacy tools
-```
-
-## [pipx](https://pypa.github.io/pipx/)
-
-Install and run Python applications in isolated environments.
-
-```bash
-# Manage CLI tools
-pipx install ruff                      # Install a tool
-pipx upgrade ruff                      # Upgrade a tool
-pipx upgrade-all                       # Upgrade all tools
-pipx uninstall ruff                    # Uninstall a tool
-pipx list                              # List installed tools
-
-# Run an app without installing
-pipx run cowsay "Hello, World!"        # Run the latest version of a package
-pipx run pycowsay --version 2.0.0 "Hi" # Run a specific version
 ```
 
 ## [pytest](https://docs.pytest.org/)
@@ -149,3 +149,45 @@ ruff format .                          # Format all files in the current directo
 ruff rule --all                        # Show all available rules
 ruff rule --select I001                # Explain a specific rule
 ```
+
+## Common Built-in Modules (`python -m`)
+
+-   [`http.server`](https://docs.python.org/3/library/http.server.html)
+
+    A simple HTTP server.
+
+    ```bash
+    python -m http.server       # Serve the current directory on port 8000
+    python -m http.server 8080  # Serve on a specific port
+    python -m http.server --bind 127.0.0.1 9000  # Serve on a specific address and port
+    ```
+
+-   [`json.tool`](https://docs.python.org/3/library/json.html#module-json.tool)
+
+    A JSON validator and pretty-printer.
+
+    ```bash
+    python -m json.tool my_data.json    # Validate and pretty-print a JSON file
+    echo '{"name": "John", "age": 30}' | python -m json.tool    # Pretty-print JSON from a string
+    ```
+
+-   [`timeit`](https://docs.python.org/3/library/timeit.html)
+
+    A tool for measuring the execution time of small code snippets.
+
+    ```bash
+    python -m timeit '"-".join(str(n) for n in range(100))'    # Time a single statement
+    python -m timeit --setup "import my_module" "my_module.my_function()"    # Time a multi-line script
+    ```
+
+-   [`pdb`](https://docs.python.org/3/library/pdb.html)
+
+    The Python Debugger.
+
+    ```bash
+    # Run a script under the debugger
+    python -m pdb my_script.py
+
+    # The script will pause at the first line, allowing you to step through
+    # the code, inspect variables, and set breakpoints.
+    ```
