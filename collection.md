@@ -2,6 +2,7 @@
 
 **0. General**
 
+  - [Josh's Wonderful Cheatsheet Collection](https://github.com/JoshuaChen2048/cheatsheets/blob/main/collection.md)
   - [QuickRef](https://quickref.me)
   - [Cheatography](https://cheatography.com)
   - [GeeksforGeeks Cheat Sheets](https://www.google.com/search?q=https://www.geeksforgeeks.org/cheat-sheets/)
