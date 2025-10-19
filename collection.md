@@ -2,7 +2,7 @@
 
 **0. General**
 
-  - [Josh's Wonderful Cheatsheet Collection](https://github.com/JoshuaChen2048/cheatsheets/blob/main/collection.md)
+  - [Josh's Wonderful Cheatsheet Collection](https://github.com/JoshuaChen42/cheatsheets/blob/main/collection.md)
   - [QuickRef](https://quickref.me)
   - [Cheatography](https://cheatography.com)
   - [GeeksforGeeks Cheat Sheets](https://www.google.com/search?q=https://www.geeksforgeeks.org/cheat-sheets/)
@@ -37,7 +37,7 @@
 
 **4. Python and Related Tools**
 
-  - [Josh's Python cheatsheet - Common Line Commands](https://github.com/JoshuaChen2048/cheatsheets/blob/main/python/cli-commands.md)
+  - [Josh's Python cheatsheet - Common Line Commands](https://github.com/JoshuaChen42/cheatsheets/blob/main/python/cli-commands.md)
   - [cheatsheet.page: Pip & Venv](https://www.google.com/search?q=https://cheatsheet.page/python/pip-venv/)
   - [bitecode.dev: A `uv` Cheatsheet for Pip and Venv Users](https://www.google.com/search?q=%5Bhttps://www.bitecode.dev/p/uv-the-new-king-of-python-packaging%5D\(https://www.bitecode.dev/p/uv-the-new-king-of-python-packaging\))
 
