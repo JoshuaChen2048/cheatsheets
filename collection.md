@@ -1,6 +1,7 @@
 # Josh's Wonderful Cheatsheet Collection
 
-**0. General**
+## General
+**1. General**
 
   - [Josh's Wonderful Cheatsheet Collection](https://github.com/JoshuaChen42/cheatsheets/blob/main/collection.md)
   - [QuickRef](https://quickref.me)
@@ -9,8 +10,7 @@
   - [OverAPI](https://overapi.com/)
   - [Devhints](https://devhints.io/)
 
------
-
+## System
 **1. Linux**
 
   - [The Ultimate Linux Commands Cheat Sheet](https://www.google.com/search?q=https://linuxhandbook.com/linux-commands-cheat-sheet/)
@@ -27,7 +27,24 @@
 
 -----
 
-**3. Git**
+**3. vi**
+
+  - [VI Cheat Sheet](https://www.cs.colostate.edu/helpdocs/vi.html)
+  - [vi Cheat Sheet - Linux Administration](http://www.linux-admins.net/2011/01/vi-cheat-sheet.html)
+  - [University of Washington: vi Editor Cheat Sheet](https://www.google.com/search?q=https://itconnect.uw.edu/learn/workshops/online-tutorials/vi-text-editor-tutorial/vi-cheat-sheet-2/)
+
+-----
+
+**4. vim**
+
+  - [Vim Cheat Sheet](https://vim.rtorr.com/)
+  - [Devhints: Vim Cheatsheet](https://devhints.io/vim)
+  - [Another Vim Cheatsheet](https://www.google.com/search?q=https://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know-2)
+
+-----
+
+## Tools
+**1. Git**
 
   - [Atlassian: Git Commands Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   - [Git Tower: The Git Cheat Sheet](https://www.google.com/search?q=https://www.git-tower.com/learn/git/cheat-sheet)
@@ -35,7 +52,30 @@
 
 -----
 
-**4. Python and Related Tools**
+**2. VS Code**
+
+  - [Official VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+  - [QuickRef: VSCode Cheat Sheet](https://quickref.me/vscode.html)
+  - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
+-----
+
+**3. Docker**
+
+  - [Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+  - [QuickRef: Docker Cheat Sheet](https://quickref.me/docker.html)
+  - [Gibbdog: Docker Cheat Sheet](https://www.google.com/search?q=https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
+
+-----
+
+**4. Kubernetes**
+
+  - [Kubernetes Cheat Sheet - Commands and Best Practices](https://spacelift.io/blog/kubernetes-cheat-sheet)
+  - [SANS Institute: Kubernetes Cheat Sheet](https://www.sans.org/posters/kubernetes-cheat-sheet/)
+  - [Medium: Kubernetes Essentials Cheat Sheet](https://medium.com/@yahya.mlaouhi/kubernetes-essentials-cheat-sheet-for-beginners-and-pros-44916273d778)
+
+## Python
+**1. Python and Related Tools**
 
   - [Josh's Python cheatsheet - Common Line Commands](https://github.com/JoshuaChen42/cheatsheets/blob/main/python/cli-commands.md)
   - [cheatsheet.page: Pip & Venv](https://www.google.com/search?q=https://cheatsheet.page/python/pip-venv/)
@@ -43,7 +83,7 @@
 
 -----
 
-**5. Python Language**
+**2. Python Language**
 
   - [The Ultimate Python Cheat Sheet](https://www.pythoncheatsheet.org/)
   - [GeeksforGeeks: Python Cheat Sheet](https://www.google.com/search?q=https://www.geeksforgeeks.org/python-cheatsheet/)
@@ -51,23 +91,21 @@
 
 -----
 
-**6. Python Packages**
+**3. Python Packages**
 
   - [DataCamp: NumPy Cheat Sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
   - [Dataquest: Pandas Cheat Sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
   - [QuickRef: Python Requests Cheat Sheet](https://www.google.com/search?q=https://quickref.me/requests)
 
------
-
-**7. Markdown**
+## Language
+**1. Markdown**
 
   - [Markdown Guide: Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
   - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   - [CommonMark: 10-Minute Tutorial](https://commonmark.org/help/)
 
------
-
-**8. LangChain**
+## AI
+**1. LangChain**
 
   - [LangChain: Expression Language (LCEL) Cookbook](https://www.google.com/search?q=https://python.langchain.com/docs/expression_language/cookbook/)
   - [DataCamp: LangChain Cheat Sheet](https://www.google.com/search?q=https://www.datacamp.com/cheat-sheet/langchain-cheat-sheet)
@@ -75,7 +113,7 @@
 
 -----
 
-**9. LangGraph**
+**2. LangGraph**
 
   - [GitHub Gist: LangGraph Cheatsheet](https://gist.github.com/razhangwei/631a799e6bd69b26ce9c118c624cd80d)
   - [Real Python: Build Agentic RAG with LangGraph](https://realpython.com/langgraph-python/)
@@ -83,7 +121,7 @@
 
 -----
 
-**10. LlamaIndex**
+**3. LlamaIndex**
 
   - [LlamaIndex Docs: High-Level Concepts](https://www.google.com/search?q=https://docs.llamaindex.ai/en/stable/getting_started/high_level_concepts.html)
   - [DataCamp: LlamaIndex Cheat Sheet](https://www.google.com/search?q=https://www.datacamp.com/cheat-sheet/llamaindex-cheat-sheet)
@@ -91,7 +129,7 @@
 
 -----
 
-**11. OpenAI API**
+**4. OpenAI API**
 
   - [OpenAI Cookbook (Official Recipes)](https://cookbook.openai.com/)
   - [QuickRef: OpenAI API Cheat Sheet](https://www.google.com/search?q=https://quickref.me/openai-api)
@@ -99,7 +137,7 @@
 
 -----
 
-**12. Microsoft Autogen (for MCP)**
+**5. Microsoft Autogen (for MCP)**
 *Note: Cheatsheets for the general concept of Multi-agent Conversation Programming (MCP) are rare. The most practical resources focus on frameworks that implement it, like Microsoft Autogen.*
 
   - [DataCamp: Microsoft Autogen Cheat Sheet](https://www.google.com/search?q=https://www.datacamp.com/cheat-sheet/autogen-cheat-sheet)
@@ -108,56 +146,15 @@
 
 -----
 
-**13. Agent-to-Agent (A2A) Patterns**
+**6. Agent-to-Agent (A2A) Patterns**
 *Note: A2A is a broad concept. These resources cover popular, concrete implementations like structured data formats (JSON Schema), tool use (OpenAI Function Calling), and collaborative frameworks (CrewAI).*
 
   - [QuickRef: JSON Schema Cheat Sheet](https://www.google.com/search?q=https://quickref.me/json-schema.html)
   - [OpenAI Cookbook: How to Call Functions with Chat Models](https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models)
   - [CrewAI Docs: Creating a Crew and Kicking it Off](https://www.google.com/search?q=https://docs.crewai.com/how-to/creating-a-crew-and-kick-it-off/)
 
------
-
-**14. vi**
-
-  - [VI Cheat Sheet](https://www.cs.colostate.edu/helpdocs/vi.html)
-  - [vi Cheat Sheet - Linux Administration](http://www.linux-admins.net/2011/01/vi-cheat-sheet.html)
-  - [University of Washington: vi Editor Cheat Sheet](https://www.google.com/search?q=https://itconnect.uw.edu/learn/workshops/online-tutorials/vi-text-editor-tutorial/vi-cheat-sheet-2/)
-
------
-
-**15. vim**
-
-  - [Vim Cheat Sheet](https://vim.rtorr.com/)
-  - [Devhints: Vim Cheatsheet](https://devhints.io/vim)
-  - [Another Vim Cheatsheet](https://www.google.com/search?q=https://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know-2)
-
------
-
-**16. VS Code**
-
-  - [Official VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-  - [QuickRef: VSCode Cheat Sheet](https://quickref.me/vscode.html)
-  - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-
------
-
-**17. Docker**
-
-  - [Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
-  - [QuickRef: Docker Cheat Sheet](https://quickref.me/docker.html)
-  - [Gibbdog: Docker Cheat Sheet](https://www.google.com/search?q=https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
-
------
-
-**18. Kubernetes**
-
-  - [Kubernetes Cheat Sheet - Commands and Best Practices](https://spacelift.io/blog/kubernetes-cheat-sheet)
-  - [SANS Institute: Kubernetes Cheat Sheet](https://www.sans.org/posters/kubernetes-cheat-sheet/)
-  - [Medium: Kubernetes Essentials Cheat Sheet](https://medium.com/@yahya.mlaouhi/kubernetes-essentials-cheat-sheet-for-beginners-and-pros-44916273d778)
-
------
-
-**19. AWS**
+## Cloud
+**1. AWS**
 
   - [AlmaBetter: AWS Cheat Sheet](https://www.almabetter.com/bytes/cheat-sheet/aws)
   - [Tutorials Dojo: AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
@@ -165,7 +162,7 @@
 
 -----
 
-**20. Azure**
+**2. Azure**
 
   - [Microsoft: Azure CLI Onboarding Cheat Sheet](https://learn.microsoft.com/en-us/cli/azure/cheat-sheet-onboarding?view=azure-cli-latest)
   - [Wiz: Azure Security Best Practices Cheat Sheet](https://www.wiz.io/lp/azure-security-best-practices-cheat-sheet)
