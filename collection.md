@@ -114,3 +114,59 @@
   - [QuickRef: JSON Schema Cheat Sheet](https://www.google.com/search?q=https://quickref.me/json-schema.html)
   - [OpenAI Cookbook: How to Call Functions with Chat Models](https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models)
   - [CrewAI Docs: Creating a Crew and Kicking it Off](https://www.google.com/search?q=https://docs.crewai.com/how-to/creating-a-crew-and-kick-it-off/)
+
+-----
+
+**14. vi**
+
+  - [VI Cheat Sheet](https://www.cs.colostate.edu/helpdocs/vi.html)
+  - [vi Cheat Sheet - Linux Administration](http://www.linux-admins.net/2011/01/vi-cheat-sheet.html)
+  - [University of Washington: vi Editor Cheat Sheet](https://www.google.com/search?q=https://itconnect.uw.edu/learn/workshops/online-tutorials/vi-text-editor-tutorial/vi-cheat-sheet-2/)
+
+-----
+
+**15. vim**
+
+  - [Vim Cheat Sheet](https://vim.rtorr.com/)
+  - [Devhints: Vim Cheatsheet](https://devhints.io/vim)
+  - [Another Vim Cheatsheet](https://www.google.com/search?q=https://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know-2)
+
+-----
+
+**16. VS Code**
+
+  - [Official VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+  - [QuickRef: VSCode Cheat Sheet](https://quickref.me/vscode.html)
+  - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
+-----
+
+**17. Docker**
+
+  - [Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+  - [QuickRef: Docker Cheat Sheet](https://quickref.me/docker.html)
+  - [Gibbdog: Docker Cheat Sheet](https://www.google.com/search?q=https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
+
+-----
+
+**18. Kubernetes**
+
+  - [Kubernetes Cheat Sheet - Commands and Best Practices](https://spacelift.io/blog/kubernetes-cheat-sheet)
+  - [SANS Institute: Kubernetes Cheat Sheet](https://www.sans.org/posters/kubernetes-cheat-sheet/)
+  - [Medium: Kubernetes Essentials Cheat Sheet](https://medium.com/@yahya.mlaouhi/kubernetes-essentials-cheat-sheet-for-beginners-and-pros-44916273d778)
+
+-----
+
+**19. AWS**
+
+  - [AlmaBetter: AWS Cheat Sheet](https://www.almabetter.com/bytes/cheat-sheet/aws)
+  - [Tutorials Dojo: AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
+  - [DigitalOcean: AWS CLI Cheat Sheet](https://www.google.com/search?q=https://www.digitalocean.com/community/cheatsheets/aws-cli-cheat-sheet)
+
+-----
+
+**20. Azure**
+
+  - [Microsoft: Azure CLI Onboarding Cheat Sheet](https://learn.microsoft.com/en-us/cli/azure/cheat-sheet-onboarding?view=azure-cli-latest)
+  - [Wiz: Azure Security Best Practices Cheat Sheet](https://www.wiz.io/lp/azure-security-best-practices-cheat-sheet)
+  - [Microsoft: Machine Learning Algorithm Cheat Sheet for Azure](https://learn.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?view=azureml-api-1)
