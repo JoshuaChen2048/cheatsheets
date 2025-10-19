@@ -104,6 +104,30 @@
   - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   - [CommonMark: 10-Minute Tutorial](https://commonmark.org/help/)
 
+-----
+
+**2. SQL**
+
+  - [SQLTutorial.org: SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+  - [The Ultimate SQL Cheat Sheet by Databasestar](https://www.databasestar.com/sql-cheat-sheet/)
+  - [Devhints: SQL Cheat Sheet](https://www.google.com/search?q=https://devhints.io/sql)
+
+-----
+
+**3. JavaScript**
+
+  - [Devhints: JavaScript Cheat Sheet](https://www.google.com/search?q=https://devhints.io/javascript)
+  - [GitHub: Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+  - [The Ultimate JavaScript Cheat Sheet by HTMLCheatSheet.com](https://htmlcheatsheet.com/js/)
+
+-----
+
+**4. TypeScript**
+
+  - [Official TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
+  - [Devhints: TypeScript Cheat Sheet](https://devhints.io/typescript)
+  - [SitePen: TypeScript Cheat Sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
+
 ## AI
 **1. LangChain**
 
