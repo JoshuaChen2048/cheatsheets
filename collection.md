@@ -1,8 +1,38 @@
 # Josh's Wonderful Cheatsheet Collection
 
-## General
-**1. General**
+## Table of Contents
+- [General](#general)
+- [System](#system)
+  - [1. Linux](#1-linux)
+  - [2. macOS](#2-macos)
+  - [3. vi](#3-vi)
+  - [4. vim](#4-vim)
+- [Tools](#tools)
+  - [1. Git](#1-git)
+  - [2. VS Code](#2-vs-code)
+  - [3. Docker](#3-docker)
+  - [4. Kubernetes](#4-kubernetes)
+- [Python](#python)
+  - [1. Python and Related Tools](#1-python-and-related-tools)
+  - [2. Python Language](#2-python-language)
+  - [3. Python Packages](#3-python-packages)
+- [Language](#language)
+  - [1. Markdown](#1-markdown)
+  - [2. SQL](#2-sql)
+  - [3. JavaScript](#3-javascript)
+  - [4. TypeScript](#4-typescript)
+- [AI](#ai)
+  - [1. LangChain](#1-langchain)
+  - [2. LangGraph](#2-langgraph)
+  - [3. LlamaIndex](#3-llamaindex)
+  - [4. OpenAI API](#4-openai-api)
+  - [5. Microsoft Autogen (for MCP)](#5-microsoft-autogen-for-mcp)
+  - [6. Agent-to-Agent (A2A) Patterns](#6-agent-to-agent-a2a-patterns)
+- [Cloud](#cloud)
+  - [1. AWS](#1-aws)
+  - [2. Azure](#2-azure)
 
+## General
   - [Josh's Wonderful Cheatsheet Collection](https://github.com/JoshuaChen42/cheatsheets/blob/main/collection.md)
   - [QuickRef](https://quickref.me)
   - [Cheatography](https://cheatography.com)
