@@ -41,7 +41,7 @@
   - [Devhints](https://devhints.io/)
 
 ## System
-**1. Linux**
+### 1. Linux
 
   - [The Ultimate Linux Commands Cheat Sheet](https://www.google.com/search?q=https://linuxhandbook.com/linux-commands-cheat-sheet/)
   - [DigitalOcean: Linux Command Line Cheat Sheet](https://www.google.com/search?q=https://www.digitalocean.com/community/cheatsheets/linux-command-line-cheat-sheet)
@@ -49,7 +49,7 @@
 
 -----
 
-**2. macOS**
+### 2. macOS
 
   - [SS64: An A-Z Index of the Apple macOS command line](https://ss64.com/osx/)
   - [macOS Command Line Cheatsheet](https://www.google.com/search?q=https://mac.install.guide/command-line/cheatsheet.html)
@@ -57,7 +57,7 @@
 
 -----
 
-**3. vi**
+### 3. vi
 
   - [VI Cheat Sheet](https://www.cs.colostate.edu/helpdocs/vi.html)
   - [vi Cheat Sheet - Linux Administration](http://www.linux-admins.net/2011/01/vi-cheat-sheet.html)
@@ -65,7 +65,7 @@
 
 -----
 
-**4. vim**
+### 4. vim
 
   - [Vim Cheat Sheet](https://vim.rtorr.com/)
   - [Devhints: Vim Cheatsheet](https://devhints.io/vim)
@@ -74,7 +74,7 @@
 -----
 
 ## Tools
-**1. Git**
+### 1. Git
 
   - [Atlassian: Git Commands Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   - [Git Tower: The Git Cheat Sheet](https://www.google.com/search?q=https://www.git-tower.com/learn/git/cheat-sheet)
@@ -82,7 +82,7 @@
 
 -----
 
-**2. VS Code**
+### 2. VS Code
 
   - [Official VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
   - [QuickRef: VSCode Cheat Sheet](https://quickref.me/vscode.html)
@@ -90,7 +90,7 @@
 
 -----
 
-**3. Docker**
+### 3. Docker
 
   - [Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
   - [QuickRef: Docker Cheat Sheet](https://quickref.me/docker.html)
@@ -98,14 +98,14 @@
 
 -----
 
-**4. Kubernetes**
+### 4. Kubernetes
 
   - [Kubernetes Cheat Sheet - Commands and Best Practices](https://spacelift.io/blog/kubernetes-cheat-sheet)
   - [SANS Institute: Kubernetes Cheat Sheet](https://www.sans.org/posters/kubernetes-cheat-sheet/)
   - [Medium: Kubernetes Essentials Cheat Sheet](https://medium.com/@yahya.mlaouhi/kubernetes-essentials-cheat-sheet-for-beginners-and-pros-44916273d778)
 
 ## Python
-**1. Python and Related Tools**
+### 1. Python and Related Tools
 
   - [Josh's Python cheatsheet - Common Line Commands](https://github.com/JoshuaChen42/cheatsheets/blob/main/python/cli-commands.md)
   - [cheatsheet.page: Pip & Venv](https://www.google.com/search?q=https://cheatsheet.page/python/pip-venv/)
@@ -113,7 +113,7 @@
 
 -----
 
-**2. Python Language**
+### 2. Python Language
 
   - [The Ultimate Python Cheat Sheet](https://www.pythoncheatsheet.org/)
   - [GeeksforGeeks: Python Cheat Sheet](https://www.google.com/search?q=https://www.geeksforgeeks.org/python-cheatsheet/)
@@ -121,14 +121,14 @@
 
 -----
 
-**3. Python Packages**
+### 3. Python Packages
 
   - [DataCamp: NumPy Cheat Sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
   - [Dataquest: Pandas Cheat Sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
   - [QuickRef: Python Requests Cheat Sheet](https://www.google.com/search?q=https://quickref.me/requests)
 
 ## Language
-**1. Markdown**
+### 1. Markdown
 
   - [Markdown Guide: Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
   - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -136,7 +136,7 @@
 
 -----
 
-**2. SQL**
+### 2. SQL
 
   - [SQLTutorial.org: SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
   - [The Ultimate SQL Cheat Sheet by Databasestar](https://www.databasestar.com/sql-cheat-sheet/)
@@ -144,7 +144,7 @@
 
 -----
 
-**3. JavaScript**
+### 3. JavaScript
 
   - [Devhints: JavaScript Cheat Sheet](https://www.google.com/search?q=https://devhints.io/javascript)
   - [GitHub: Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
@@ -152,14 +152,14 @@
 
 -----
 
-**4. TypeScript**
+### 4. TypeScript
 
   - [Official TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
   - [Devhints: TypeScript Cheat Sheet](https://devhints.io/typescript)
   - [SitePen: TypeScript Cheat Sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
 
 ## AI
-**1. LangChain**
+### 1. LangChain
 
   - [LangChain: Expression Language (LCEL) Cookbook](https://www.google.com/search?q=https://python.langchain.com/docs/expression_language/cookbook/)
   - [DataCamp: LangChain Cheat Sheet](https://www.google.com/search?q=https://www.datacamp.com/cheat-sheet/langchain-cheat-sheet)
@@ -167,7 +167,7 @@
 
 -----
 
-**2. LangGraph**
+### 2. LangGraph
 
   - [GitHub Gist: LangGraph Cheatsheet](https://gist.github.com/razhangwei/631a799e6bd69b26ce9c118c624cd80d)
   - [Real Python: Build Agentic RAG with LangGraph](https://realpython.com/langgraph-python/)
@@ -175,7 +175,7 @@
 
 -----
 
-**3. LlamaIndex**
+### 3. LlamaIndex
 
   - [LlamaIndex Docs: High-Level Concepts](https://www.google.com/search?q=https://docs.llamaindex.ai/en/stable/getting_started/high_level_concepts.html)
   - [DataCamp: LlamaIndex Cheat Sheet](https://www.google.com/search?q=https://www.datacamp.com/cheat-sheet/llamaindex-cheat-sheet)
@@ -183,7 +183,7 @@
 
 -----
 
-**4. OpenAI API**
+### 4. OpenAI API
 
   - [OpenAI Cookbook (Official Recipes)](https://cookbook.openai.com/)
   - [QuickRef: OpenAI API Cheat Sheet](https://www.google.com/search?q=https://quickref.me/openai-api)
@@ -191,7 +191,7 @@
 
 -----
 
-**5. Microsoft Autogen (for MCP)**
+### 5. Microsoft Autogen (for MCP)
 *Note: Cheatsheets for the general concept of Multi-agent Conversation Programming (MCP) are rare. The most practical resources focus on frameworks that implement it, like Microsoft Autogen.*
 
   - [DataCamp: Microsoft Autogen Cheat Sheet](https://www.google.com/search?q=https://www.datacamp.com/cheat-sheet/autogen-cheat-sheet)
@@ -200,7 +200,7 @@
 
 -----
 
-**6. Agent-to-Agent (A2A) Patterns**
+### 6. Agent-to-Agent (A2A) Patterns
 *Note: A2A is a broad concept. These resources cover popular, concrete implementations like structured data formats (JSON Schema), tool use (OpenAI Function Calling), and collaborative frameworks (CrewAI).*
 
   - [QuickRef: JSON Schema Cheat Sheet](https://www.google.com/search?q=https://quickref.me/json-schema.html)
@@ -208,7 +208,7 @@
   - [CrewAI Docs: Creating a Crew and Kicking it Off](https://www.google.com/search?q=https://docs.crewai.com/how-to/creating-a-crew-and-kick-it-off/)
 
 ## Cloud
-**1. AWS**
+### 1. AWS
 
   - [AlmaBetter: AWS Cheat Sheet](https://www.almabetter.com/bytes/cheat-sheet/aws)
   - [Tutorials Dojo: AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
@@ -216,7 +216,7 @@
 
 -----
 
-**2. Azure**
+### 2. Azure
 
   - [Microsoft: Azure CLI Onboarding Cheat Sheet](https://learn.microsoft.com/en-us/cli/azure/cheat-sheet-onboarding?view=azure-cli-latest)
   - [Wiz: Azure Security Best Practices Cheat Sheet](https://www.wiz.io/lp/azure-security-best-practices-cheat-sheet)
